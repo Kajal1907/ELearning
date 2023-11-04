@@ -71,5 +71,3 @@ To run the project locally, follow these steps:
 - Visit the application in your web browser at `http://localhost:4200`.
 - Create an account or use a demo account for testing.
 - Explore courses, watch video lectures, and take quizzes.
-
-```
